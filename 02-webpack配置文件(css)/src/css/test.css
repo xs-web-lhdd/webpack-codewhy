@@ -1,0 +1,19 @@
+.content{
+  color: #12345678;
+}
+
+
+:fullscreen{
+  color: red;
+}
+
+.content{
+  user-select: none;
+  transition: all 2s;
+}
+
+.bg-image{
+  display: inline-block;
+  background-image: url('../img/baidu-background-mine.png');
+  background-size: contain;
+}
