@@ -20,6 +20,7 @@ function component() {
   bgDiv.className = 'bg-image'
   bgDiv.style.width = '300px'
   bgDiv.style.height = '200px'
+  bgDiv.style.backgroundColor = 'red'
   element.appendChild(bgDiv)
 
   return element
